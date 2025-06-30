@@ -8,6 +8,7 @@ Obiettivi di analisi
 1.	L’andamento degli ordini nel tempo per stato*
 2.	L’andamento dei ricavi nel tempo per stato**
 3.	Distribuzione del rating***
+
 Sono stati tratti degli spunti interessanti per approfondire, oltre alle richieste, anche una proiezione di vendite per i due mesi successivi tramite un elemento di analisi nativo POWER BI con un KPI sul target
 degli importi vendite confrontato con anno precedente ed un confronto tra importi vendite e quantità vendute tramite uno scatterplot con asse di riproduzione, dove si evince che i prodotti non hanno un andamento
 costante ma oscillano nel tempo.
